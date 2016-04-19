@@ -4,5 +4,51 @@ rvm:
  - jruby
  - rbx
 script: 
-  - curl -X POST https://sandbox-rest.ably.io:443/apps
   - wget -O /dev/null http://speedtest.wdc01.softlayer.com/downloads/test10.zip
+  - curl -X POST https://sandbox-rest.ably.io:443/apps
+  - curl -X POST https://sandbox-rest.ably.io:443/apps
+  - curl -X POST https://sandbox-rest.ably.io:443/apps
+  - curl -X POST https://sandbox-rest.ably.io:443/apps
+  - curl -X POST https://sandbox-rest.ably.io:443/apps
+  - curl -X POST https://sandbox-rest.ably.io:443/apps
+  - curl -X POST https://sandbox-rest.ably.io:443/apps
+  - curl -X POST https://sandbox-rest.ably.io:443/apps
+  - curl -X POST https://sandbox-rest.ably.io:443/apps
+  - curl -X POST https://sandbox-rest.ably.io:443/apps
+  - curl -X POST https://sandbox-rest.ably.io:443/apps
+  - curl -X POST https://sandbox-rest.ably.io:443/apps
+  - curl -X POST https://sandbox-rest.ably.io:443/apps
+  - curl -X POST https://sandbox-rest.ably.io:443/apps
+  - curl -X POST https://sandbox-rest.ably.io:443/apps
+  - curl -X POST https://sandbox-rest.ably.io:443/apps
+  - curl -X POST https://sandbox-rest.ably.io:443/apps
+  - curl -X POST https://sandbox-rest.ably.io:443/apps
+  - curl -X POST https://sandbox-rest.ably.io:443/apps
+  - curl -X POST https://sandbox-rest.ably.io:443/apps
+  - curl -X POST https://sandbox-rest.ably.io:443/apps
+  - curl -X POST https://sandbox-rest.ably.io:443/apps
+  - curl -X POST https://sandbox-rest.ably.io:443/apps
+  - curl -X POST https://sandbox-rest.ably.io:443/apps
+  - curl -X POST https://sandbox-rest.ably.io:443/apps
+  - curl -X POST https://sandbox-rest.ably.io:443/apps
+  - curl -X POST https://sandbox-rest.ably.io:443/apps
+  - curl -X POST https://sandbox-rest.ably.io:443/apps
+  - curl -X POST https://sandbox-rest.ably.io:443/apps
+  - curl -X POST https://sandbox-rest.ably.io:443/apps
+  - curl -X POST https://sandbox-rest.ably.io:443/apps
+  - curl -X POST https://sandbox-rest.ably.io:443/apps
+  - curl -X POST https://sandbox-rest.ably.io:443/apps
+  - curl -X POST https://sandbox-rest.ably.io:443/apps
+  - curl -X POST https://sandbox-rest.ably.io:443/apps
+  - curl -X POST https://sandbox-rest.ably.io:443/apps
+  - curl -X POST https://sandbox-rest.ably.io:443/apps
+  - curl -X POST https://sandbox-rest.ably.io:443/apps
+  - curl -X POST https://sandbox-rest.ably.io:443/apps
+  - curl -X POST https://sandbox-rest.ably.io:443/apps
+  - curl -X POST https://sandbox-rest.ably.io:443/apps
+  - curl -X POST https://sandbox-rest.ably.io:443/apps
+  - curl -X POST https://sandbox-rest.ably.io:443/apps
+  - curl -X POST https://sandbox-rest.ably.io:443/apps
+  - curl -X POST https://sandbox-rest.ably.io:443/apps
+  - curl -X POST https://sandbox-rest.ably.io:443/apps
+  - curl -X POST https://sandbox-rest.ably.io:443/apps
